@@ -7,7 +7,7 @@ Mechanical engineer transitioning into data science, with a focus on applying ma
 
 ## About
 
-**Background:** BEng Mechanical Engineering, University of Pretoria. Honours research in vibration-based gearbox fault classification (2024). Three years of practical experience in mining and heavy industry.
+**Background:** BEng Mechanical Engineering, University of Pretoria. Honours research in vibration-based gearbox fault classification (2024). Five years of practical experience in mining and heavy industry.
 
 **Why data science:** I’m a problem solver at my core, and I enjoy owning the full loop: framing the problem, exploring the data, building models, and translating results into actions. Data science gives me leverage—my work can improve decisions, reduce risk, and create value across teams.
 
