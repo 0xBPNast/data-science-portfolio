@@ -1,5 +1,4 @@
 # Data Science Portfolio
-<<<<<<< HEAD
 
 A collection of data science and machine learning projects, with a focus on vibration-based condition monitoring and fault diagnostics for rotating machinery.
 
